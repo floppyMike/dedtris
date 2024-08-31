@@ -7,7 +7,7 @@ A extendable tetris game written in Rust. Extensions are written in Lua.
 </p>
 
 ## Installation
-The prebuilt binaries can be found [here](https://github.com/Majtris/majtris/releases).
+The prebuilt binaries can be found [here](https://github.com/floppyMike/dedtris/releases).
 
 ## Build
 The build process involves installing the [rust toolchain](https://www.rust-lang.org/tools/install) and installing the required [SDL2 libraries](https://www.libsdl.org/download-2.0.php) which the build depends on.
